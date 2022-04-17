@@ -9,16 +9,16 @@ The department has the provision of five printers to print five different files 
 # Class Diagram
 ![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/class%20diagram.jpg)
 # MainPage
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/d051c3f15eaf9254a8c918862bf63bf583ef1d69/screenshot/mainpage.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/mainpage.jpg)
 # RequestPage
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/e8b326b9786b37571b98cbff78ff30bf408e6093/screenshot/requestpage.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/requestpage.jpg)
 # ViewRequestdetails
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/91577b86b0b11cc7bd26b387cbefdca3efad6cc3/screenshot/requestdetails.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/requestdetails.jpg)
 # ClericalStaff
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/2d09e1528b23b5a884c5c146c08c8b556b9fcf9c/screenshot/clericalstaff.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/clericalstaff.jpg)
 # RequestPrinter
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/b08646bef65650e86939831908eee84aa4452091/screenshot/requstprinter.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/requstprinter.jpg)
 # Printerinfo
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/106d07cfe5ac4259ea70421b9005473b1112ede7/screenshot/printerdetails.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/printerdetails.jpg)
 # Deliverypage
-![alt text](https://github.com/chethan9604/ICTS-printing-service/blob/dd2fcc981723cfb53609c05db3f455b971866705/screenshot/deliverydetails.jpg)
+![alt text](https://github.com/Praneethvarma1302/Amrita-ICTS-Printing-Service/blob/main/Screenshots/deliverydetails.jpg)
